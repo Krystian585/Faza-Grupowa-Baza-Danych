@@ -25,7 +25,7 @@
 - player raitings
 
 ## Documentation
-- [**DBProjekt**](./dokumentacja_DBProjekt.pdf)
+- [**DBProjekt**](Dokumentacja_DBProjekt.pdf)
 
 
 ## Technologies Used
