@@ -13,7 +13,7 @@
 
 
 ## Diagram
-![Diagram](BDProjekt/images/DBProjekt.jpg)
+![Diagram](images/DBProjekt.jpg)
 
 
 ## General Information
